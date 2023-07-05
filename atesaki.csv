@@ -1,4 +1,4 @@
-氏名    ,アドレス              ,パスワード
-金谷一郎,kaneya@fsolution.co.jp,aaa
-金谷二郎,kaneya@fsolution.co.jp,bbb
-金谷三郎,kaneya@fsolution.co.jp,ccc
+name,email,message
+John,john@example.com,Hello
+Smith,smith@example.com,Hi
+Kevin,kevin@example.com,Foo
